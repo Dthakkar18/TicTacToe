@@ -1,3 +1,4 @@
+#Simply tic tac toe with python
 
 theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
             'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',
